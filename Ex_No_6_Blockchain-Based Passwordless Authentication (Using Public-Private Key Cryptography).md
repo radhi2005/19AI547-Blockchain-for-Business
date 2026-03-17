@@ -95,7 +95,7 @@ contract PasswordlessAuthDemo {
 
 # Expected Output:
 ![image](https://github.com/radhi2005/19AI547-Blockchain-for-Business/blob/main/bc%20img1.jpeg)
-
+![image ](https://github.com/radhi2005/19AI547-Blockchain-for-Business/blob/main/bc%20img2.jpeg)
 Users can register without a password.
 
 
