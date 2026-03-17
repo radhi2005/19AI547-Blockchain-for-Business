@@ -1,6 +1,6 @@
 # Experiment 6: Blockchain-Based Passwordless Authentication (Using Public-Private Key Cryptography)
-# NAME:RADHIMEENA M
-# REG NO:212223040159
+## Name : RADHIMEENA M
+## Reg no: 212223040159
 # Aim:
 To implement a secure passwordless authentication system using public-private key cryptography on Ethereum. This prevents phishing and password leaks.
 
@@ -98,15 +98,14 @@ contract PasswordlessAuthDemo {
 # Expected Output:
 Users can register without a password.
 
-<img width="1856" height="1003" alt="image" src="https://github.com/user-attachments/assets/efe719b4-3803-4131-96e2-cd71ba3e8b0a" />
 
 Users sign a challenge with their private key for authentication.
 
-<img width="1854" height="974" alt="image" src="https://github.com/user-attachments/assets/8b1b304c-0753-4652-90ab-085da627a257" />
 
 The smart contract verifies signatures to confirm identity.
+![25b3cca2-367c-473e-a9ad-1978671acd33](https://github.com/user-attachments/assets/9707a81d-9060-4617-b3a4-1d38ac80d1fa)
 
-<img width="1848" height="969" alt="image" src="https://github.com/user-attachments/assets/bf1bdf12-fb76-42f8-8c39-bf88592403eb" />
+
 
 # High-Level Overview:
 Eliminates password hacks & phishing attacks.
